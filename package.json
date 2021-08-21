@@ -1,5 +1,5 @@
 {
-  "name": "with-redux-toolkit",
+  "name": "Amazon-clone",
   "version": "1.0.0",
   "scripts": {
     "dev": "next",
@@ -8,14 +8,17 @@
   },
   "dependencies": {
     "@heroicons/react": "^1.0.4",
-    "@reduxjs/toolkit": "1.5.0",
+    "@reduxjs/toolkit": "latest",
     "@tailwindcss/line-clamp": "^0.2.0",
     "firebase": "^8.6.1",
     "firebase-admin": "^9.8.0",
     "next": "latest",
     "react": "latest",
+    "react-currency-formatter": "^1.1.0",
     "react-dom": "latest",
-    "react-redux": "latest"
+    "react-redux": "latest",
+    "react-responsive-carousel": "^3.2.21",
+    "uuid": "^8.3.2"
   },
   "license": "MIT",
   "devDependencies": {
